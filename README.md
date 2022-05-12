@@ -7,7 +7,9 @@
 
 - 📫 How to reach me **bohorababin1@gmail.com**
 
-- ⚡ Fun fact **I think I like coding. Do you?**
+- 🤙 Feel free to dm me on linkedin if you have interesting projects.
+
+- ⚡ Fun fact **I enjoy writing tests. Do you? 🙃**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

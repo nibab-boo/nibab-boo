@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **bohorababin1@gmail.com**
 
-- 🤙 Feel free to dm me in linkedin if you have interesting projects.
+- 🤙 Feel free to dm me in linkedin if you have some you want work with me.
 
 - ⚡ Fun fact **I enjoy writing tests. Do you? 🙃**
 

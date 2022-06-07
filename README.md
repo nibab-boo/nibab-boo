@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I love testing code and learning new things.**
 
-### Blogs posts
+###
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 

@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as **Freelance Developer**
 
-- 🌱 I’m currently learning **CS50 and React with Jest Test and Redux**
+- 🌱 I’m currently learning **CS50**
 
 - 👯 I’m looking to collaborate to **learn Docker and AWS EC2**
 

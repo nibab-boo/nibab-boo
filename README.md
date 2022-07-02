@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **CS50**
 
-- 👯 I’m looking to collaborate to **learn Docker and AWS EC2**
+- 👯 I’m looking to collaborate on **Dynamism**
 
 - 🤝 I’m looking for help with [Dynamism](https://dynamism.herokuapp.com/)
 

@@ -12,8 +12,7 @@
 - 👨‍💻 All of my projects are available at [https://babinbohora.herokuapp.com/](https://babinbohora.herokuapp.com/)
 
 - 📝 I regularly write articles on [https://medium.com/@bohorababin1](https://medium.com/@bohorababin1)
-
-- 📫 How to reach me **bohorababin1@gmail.com**
+mailto:bohorababin1@gmail.com?cc=&bcc=&subject=Let's work together.&body=*Do %20you have an idea or an existing project?%0D%0A>%0D%0A%0D%0A*Do you want to work on any of my existing projects? ( I will like to hear some thoughts on Dynamism. )%0D%0A>%0D%0A%0D%0A*Casually wants to grab a coffee or talk??%0D%0A>https://babinbohora.herokuapp.com/)**
 
 - ⚡ Fun fact **I love testing code and learning new things.**
 

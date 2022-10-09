@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as **Freelance Developer**
 
-- 🌱 I’m currently learning to make **extension**
+- 🌱 I’m currently creating **Kanban**
 
 - 👯 I’m looking to collaborate on **Dynamism**
 
